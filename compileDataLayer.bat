@@ -1,0 +1,2 @@
+javac -cp "universidad/WEB-INF/classes";"universidad/WEB-INF/lib/*" -d universidad/WEB-INF/classes src/data/ProfesorRepositoryDAOImpl.java src/data/ProfesorDAO.java 
+src/data/CursoRepositoryDAOImpl.java src/data/CursoDAO.java

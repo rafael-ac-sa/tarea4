@@ -1,0 +1,4 @@
+CREATE TABLE profesor (id INTEGER PRIMARY KEY, cedula VARCHAR, nombre VARCHAR, titulo VARCHAR, area VARCHAR, telefono VARCHAR);
+INSERT INTO profesor VALUES(1,'101110111','Carlos Perez','Licenciado','Administracion','3456-7890');
+INSERT INTO profesor VALUES(2,'202220222','Luis Torres','Master','Economia','6677-3456');
+INSERT INTO profesor VALUES(3,'303330333','Juan Castro','Licenciado','Matematica','6755-7788');
